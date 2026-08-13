@@ -5,6 +5,12 @@ An executive-level intelligence brief analyzing consumer safety vulnerabilities,
 
 Built as part of the Google AI Professional Certificate, this project demonstrates advanced RAG (Retrieval-Augmented Generation) synthesis techniques—processing multi-source whitepapers, regulatory guidelines (EU AI Act, FTC), and legal precedents into a strictly grounded, zero-hallucination compliance report.
 
+## 📁 Project Artifacts & Documents
+
+- **[Executive Brief](./outputs/executive_brief.md):** Grounded multi-source synthesis on AI liability and consumer safety.
+- **[Compliance & Risk Matrix](./outputs/compliance_matrix.md):** Markdown table mapping risk domains to regulatory frameworks.
+- **[Audio Overview Brief](./audio/audio_overview_brief.m4a):** AI-generated conversational audio summary of the key findings.
+
 ## Key Features & Highlights
 - **100% Grounded Synthesis:** Synthesized across 5 distinct regulatory, academic, and legal case sources with inline citation tracking.
 - **Enterprise Liability Map:** Outlines direct conflict areas between current conversational AI outputs and consumer protection laws.
