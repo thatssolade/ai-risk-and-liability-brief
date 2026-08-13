@@ -28,7 +28,7 @@ Under the precedent of Moffatt v Air Canada, courts apply the "standard of care"
 
 Global Equivalents of AI Liability Standards
 | **Jurisdiction** | **Legal Framework** | **Key Requirement** |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | **United Kingdom** | Hedley Byrne; Consumer Protection Regulations| Duty of care in professional advice; prohibition of misleading actions. |
 | **European Union** | Unfair Commercial Practices Directive| Prevents "deception" regarding the nature and attributes of services. |
 | **Canada** | Queen v Cognos; Moffatt v Air Canada| Principal is responsible for all content on its platforms, including AIs. |
